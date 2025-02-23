@@ -10,7 +10,7 @@
 
 ##
 
-### Technologies I use:
+### Main skills:
 ###
 
 <div align="left">
