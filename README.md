@@ -1,6 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CAD40&width=435&lines=Welcome+to+Mila's+GitHub+page!)](https://git.io/typing-svg)
 
 ###
+### About me
+I am a second year major in Software Engineering and Information Systems student in Ss. Cyril and Methodius University in Skopje (UKIM). I am passionate about fornt-end developemnt, but am looking to specialize in bioinformatics or biological computing.
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=milagjurovska&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
