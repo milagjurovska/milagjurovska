@@ -2,7 +2,7 @@
 
 ###
 ### About me
-I am a second year student, majoring in Software Engineering and Information Systems student at Ss. Cyril and Methodius University in Skopje (UKIM). I am passionate about fornt-end developemnt, but am looking to specialize in the field of bioinformatics or biological computing.
+I am a second year student, majoring in Software Engineering and Information Systems student at Ss. Cyril and Methodius University in Skopje (UKIM). I am passionate about fornt-end developemnt, but looking to specialize in the field of bioinformatics or biological computing.
 ##
 
 <div align="center">
