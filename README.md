@@ -7,7 +7,7 @@ I am a second year student, majoring in Software Engineering and Information Sys
  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milagjurovska&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&size_weight=0.5&count_weight=0.5" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milagjurovska&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&count_weight=0.5&size_weight=0.5" height="150" alt="languages graph"  />
 </div>
 
 
