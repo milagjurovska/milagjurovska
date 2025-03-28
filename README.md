@@ -13,7 +13,7 @@ I am a second year student, majoring in Software Engineering and Information Sys
 
 ##
 
-### Main skills:
+### Techincal skills:
 ###
 
 <div align="left">
