@@ -4,11 +4,16 @@
 ### About me
 I am a second year student, majoring in Software Engineering and Information Systems at Ss. Cyril and Methodius University in Skopje (UKIM). I am passionate about fornt-end developemnt, but looking to specialize in the field of bioinformatics or biological computing.
 ##
- 
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milagjurovska&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&count_weight=0.5&size_weight=0.5" height="150" alt="languages graph"  />
 </div>
+
+##
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=milagjurovska&theme=soft_green&hide_border=true)](https://git.io/streak-stats)
+
 
 
 ##
