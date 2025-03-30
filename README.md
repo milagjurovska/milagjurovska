@@ -8,7 +8,7 @@ I am a second year student, majoring in Software Engineering and Information Sys
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=milagjurovska&theme=shadow-green&card_width=350&card_height=150" alt="GitHub Streak" /></a>
   <img width="50" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milagjurovska&langs_count=6&layout=compact&theme=react&bg_color=161b22&title_color=008000&icon_color=F8D866&border_color=008000&count_weight=0.5&size_weight=0.5" height="169px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milagjurovska&langs_count=7&layout=compact&theme=react&bg_color=161b22&title_color=008000&icon_color=F8D866&border_color=008000&count_weight=0.5&size_weight=0.5" height="169px"/>
 
 </div>
 
