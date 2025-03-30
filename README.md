@@ -5,6 +5,8 @@
 I am a second year student, majoring in Software Engineering and Information Systems at Ss. Cyril and Methodius University in Skopje (UKIM). I am passionate about fornt-end developemnt, but looking to specialize in the field of bioinformatics or biological computing.
 ##
 
+<div align="center"> <h3>Github Stats</h3> </div>
+<br>
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=milagjurovska&theme=shadow-green&card_width=350&card_height=150" alt="GitHub Streak" /></a>
   <img width="50" />
@@ -15,10 +17,12 @@ I am a second year student, majoring in Software Engineering and Information Sys
 
 ##
 
-### Techincal skills:
-###
 
-<div align="left">
+<div align="center"> <h3>Techincal skills</h3> </div>
+
+### 
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
