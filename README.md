@@ -5,10 +5,11 @@
 I am a second year student, majoring in Software Engineering and Information Systems at Ss. Cyril and Methodius University in Skopje (UKIM). I am passionate about fornt-end developemnt, but looking to specialize in the field of bioinformatics or biological computing.
 ##
 
+
 <div align="center"> <h3>Github Stats</h3> </div>
 <br>
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=milagjurovska&theme=shadow-green&card_width=350&card_height=150" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=milagjurovska&theme=shadow-green&card_width=450&card_height=150" alt="GitHub Streak" /></a>
   <img width="50" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milagjurovska&langs_count=7&layout=compact&theme=dark&bg_color=161b22&title_color=008000&icon_color=F8D866&border_color=008000&count_weight=0.5&size_weight=0.5" height="169px"/>
 
