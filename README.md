@@ -10,7 +10,7 @@ I am a second year student, majoring in Software Engineering and Information Sys
 <br>
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=milagjurovska&theme=shadow-green&card_width=350&card_height=150" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milagjurovska&langs_count=7&layout=compact&theme=dark&bg_color=161b22&title_color=008000&icon_color=F8D866&border_color=008000&count_weight=0.5&size_weight=0.5" height="169px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milagjurovska&langs_count=7&layout=compact&theme=dark&bg_color=161b22&title_color=008000&icon_color=F8D866&border_color=008000&count_weight=0.5&size_weight=0.25" height="169px"/>
 
 </div>
 
