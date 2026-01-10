@@ -18,7 +18,7 @@ I am a third year student, majoring in Software Engineering and Information Syst
 ##
 
 
-<div align="center"> <h3>Techincal skills</h3> </div>
+<div align="center"> <h3>Technical skills</h3> </div>
 
 ### 
 
